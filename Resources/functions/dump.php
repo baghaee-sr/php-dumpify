@@ -1,2 +1,8 @@
 <?php
-echo 'hello';
+
+
+function ddf($var)
+{
+    var_dump($var);
+    die();
+}
