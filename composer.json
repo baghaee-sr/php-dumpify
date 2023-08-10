@@ -1,0 +1,18 @@
+{
+    "name": "baghaee/php-dumpify",
+    "description": "php dumper for all package php",
+    "type": "library",
+    "autoload": {
+        "files": [ "Resources/functions/dump.php" ],
+        "psr-4": {
+            "Baghaee\\PhpDumpify\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "baghaee",
+            "email": "baghaee.sr@gmail.com"
+        }
+    ],
+    "require": {}
+}
